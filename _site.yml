@@ -1,0 +1,17 @@
+name: "Pay It Forward Workshop on R for Applied Linguists"
+output_dir: "."
+navbar:
+  title: "Pay It Forward Workshop on R for Applied Linguists"
+  left:
+    - text: "About Us"
+      href: index.html
+    - text: "About the Workshop"
+      href: workshop.html
+    - text: "Registration"
+      href: registration.html
+    - text: "Volunteer"
+      href: volunteer.html
+
+output:
+  html_document:
+  
