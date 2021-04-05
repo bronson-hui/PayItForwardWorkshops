@@ -3,10 +3,10 @@ output_dir: "."
 navbar:
   title: "Pay It Forward Workshop on R for Applied Linguists"
   left:
-    - text: "About Us"
-      href: index.html
     - text: "About the Workshop"
-      href: workshop.html
+      href: index.html
+    - text: "About Us"
+      href: aboutus.html
     - text: "Registration"
       href: registration.html
     - text: "Volunteer"
