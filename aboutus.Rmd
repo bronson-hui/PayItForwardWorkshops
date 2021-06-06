@@ -2,7 +2,7 @@
 title: "About us"
 ---
 
-We are a group of L2 researchers who use quantitative methods in our work and think that the world needs some positive energy during these difficult times. We are donating our time to initiate a chain of kindness in the hope that everyone can pay it forward to help somebody else in need. here is some information about us:
+We are a group of L2 researchers who use quantitative methods in our work and think that the world needs some positive energy during these difficult times. We are donating our time to initiate a chain of kindness in the hope that everyone can pay it forward to help somebody else in need. Here is some information about us:
 
 ---
 
@@ -26,4 +26,4 @@ We are a group of L2 researchers who use quantitative methods in our work and th
 ![](images/Bronson.jpg){width=20%}
 </center>
 
-[Bronson Hui](bronson-hui.github.io) is a PhD candidate in Second Language Studies. His research interests include vocabulary acquisition, lexical processing, reading-while-listening, quantitative methods, and open science practices. His work has been accepted or published in Studies in Second Language Acquisition, Applied Psycholinguistics, and Second Language Research. At MSU, he taught LLT 346 Pedagogical Grammar, and LLT 873 Quantitative Research Methods in SLS. Currently, he serves as a graduate student statistical consultant at the Center for Statistical Training and Consulting (CSTAT).
+[Bronson Hui](bronson-hui.github.io) is currently a post-doctoral researcher at the University of Tuebingen, developing AI tools for language learning. While in MSU's SLS program, he taught R to students taking *Quantitative Research Methods* and in numerous workshops. He was also a statistical consultant at the University's statistical center. His research interests include vocabulary acquisition, lexical processing, quantitative methods, and open science practices. His work has appeared or will appear in *Studies in Second Language Acquisition*, *Language Learning*, *Modern Language Journal*,  *Applied Psycholinguistics*, *Second Language Research*, among other venues.

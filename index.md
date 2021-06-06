@@ -2,8 +2,12 @@
 title: "About the Workshop"
 ---
 
+<center>
+![](images/flyer.jpg){width=20%}
+</center>
+
 ## Dates and Time 
-xx June, 2021 - xx June, 2021 (Sat and Sun)
+31 July, 2021 - 1 August, 2021 (Sat and Sun)
 
 9 am - 4 pm (US Eastern Time)
 
@@ -13,7 +17,7 @@ There are a total four 3-hour sessions. Morning sessions run from 9 am to 12 noo
 Fully online via Zoom (synchronous)
 
 ## Fees
-The workshop itself is free. But, we ask that participants donate no less than $50 (or an equivalent amount in any local currency) to a charity that has been offering help during the COVID pandemic. It can be a church, a food bank, a charity. All registrants will be asked to upload a receipt of their donation before we confirm your registration. 
+The workshop itself is free. But, we ask that participants donate no less than US$50 (or an equivalent amount in any local currency) to a charity that has been offering help during the COVID pandemic. It can be a church, a food bank, a charity. All registrants will be asked to upload a receipt of their donation before we confirm your registration. 
 
 ## Materials
 We will take advantage of open data and code generously shared by researchers in the field. So, we will be playing with data that we have good background knowledge. Participants can also read the publication(s) associated with the data ahead of time to familiarize themselves with the context. Additional code used in the workshop will be made available on this website as well. 
@@ -34,12 +38,12 @@ We will take advantage of open data and code generously shared by researchers in
   * Descriptives by groups
 
 ### Day 2 Morning
+* Data Wrangling
+  * A reproducible data processing pipeline for yourself and for Open Science
+  * Useful packages for data wrangling
+  * Select, filter, combine, reformat and more
+
+### Day 2 Afternoon
 * Data Visualization using ggplot2
   * Scatter plots
   * Line graphs for group comparisons and more
-
-### Day 2 Afternoon
-* Fitting the First Regression Models in R
-  * Modeling Fitting
-  * Assumption checks
-  * Interpreting and Reporting the Results

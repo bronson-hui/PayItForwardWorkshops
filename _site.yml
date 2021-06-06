@@ -9,8 +9,8 @@ navbar:
       href: aboutus.html
     - text: "Registration"
       href: registration.html
-    - text: "Volunteer"
-      href: volunteer.html
+    - text: "Workshop Materials"
+      href: materials.html
 
 output:
   html_document:
