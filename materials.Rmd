@@ -2,4 +2,4 @@
 title: "Materials"
 ---
 
-Course materials will be downloadable here about one week before the workshop.
+Course materials can be downloadable [here](PIF_WorkshopMaterials.zip).
